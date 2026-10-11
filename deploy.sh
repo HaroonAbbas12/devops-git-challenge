@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# Environment: production
+# Environment: development with staging changes
 
 echo "Initializing deployment process..."
 echo "Checking application files..."
-echo "Deploying application to production environment..."
-echo "Deployment process completed successfully."
+echo "Deploying application to the selected environment..."
+echo "Deployment changes from development and staging have been integrated."
 
